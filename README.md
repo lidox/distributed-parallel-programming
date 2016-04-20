@@ -19,3 +19,8 @@ example: `$ scp helloWorld.jar schaefer@sollipulli:helloWorld.jar`
 `$ logout`
 `$ node free-all`
 
+
+## Git
+
+#### Clone data:
+`$ git clone https://github.com/lidox/distributed-parallel-programming.git`
