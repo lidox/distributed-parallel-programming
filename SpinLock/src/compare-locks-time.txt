@@ -1,0 +1,26 @@
+Aufgabe 2: Vergleichen verschiedener Lock-Implementierungen
+Schreiben Sie einen kleinen Benchmark, der Ihre Spinlock-Implementierung mit folgenden anderen Synchronisierungs- möglichkeiten hinsichtlich Laufzeit vergleicht:
+• synchronized
+• reeantrant locks (fair und unfair) • stamped locks
+
+Aufgabe 1:
+Führen Sie den Benchmark für jedes Lock mit unterschiedlicher Anzahl an Threads und Iterationen durch. Was sagen die Zeiten über die jeweiligen Implementierungen aus? Wie helfen Ihnen diese bei der Wahl eines Synchronisierungs- mechanismus?
+Hinweise:
+
+• Für die Berechnung der Laufzeiten sollten Sie System.nanoTime() verwenden und nicht System.currentTimeMillis()
+Lösungsvorschlag: Eine mögliche Implementierung ist in der Datei LockTests.java. Die nachfolgenden Zeiten werden auf Ihrem/einem anderen Rechner und auch bei unterschiedlichen Java-Versionen unterschiedlich ausfallen.
+
+Für#Threads = 1000und#Increments = 5000brauchtmandurchschnittlich(10Durchläufe): • synchronized: 1177,41 ms ( ≈ 1,1 s)
+• fair reentrant lock: 49397,84 ms ( ≈ 50 s)
+• unfair reentrant lock: 822,96 ms (≈ 0,83 s)
+• stamped lock: 825,04 ms ( ≈ 0,82 s) • spin lock: 1216,91 ms ( ≈ 1,2 s)
+
+Für#Threads = 2000und#Increments = 5000brauchtmandurchschnittlich(10Durchläufe): • synchronized: 2008,55 ms ( ≈ 2 s)
+• fair reentrant lock: 101239,95 ms ( ≈ 100 s)
+• unfair reentrant lock: 1410,57 ms ( ≈ 1,4 s)
+• stamped lock: 1539,60 ms ( ≈ 1,5 s) • spin lock: 2284,64 ms ( ≈ 2,3 s)
+
+Für#Threads = 5000und#Increments = 5000brauchtmandurchschnittlich(10Durchläufe): • synchronized: 4552,61 ms ( ≈ 4,5 s)
+• fair reentrant lock: 265956,14 ms ( ≈ 264 s)
+• unfair reentrant lock: 2882,37 ms ( ≈ 2,9 s)
+• stamped lock: 3555,56 ms ( ≈ 3,6 s) • spin lock: 7757,95 ms ( ≈ 7,8 s)
