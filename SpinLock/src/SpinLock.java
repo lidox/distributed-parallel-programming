@@ -5,7 +5,8 @@ import java.util.concurrent.locks.ReentrantLock;
 
 
 public class SpinLock implements Lock{
-
+	
+	// standard = unfair. per constructor set fair
 	ReentrantLock lock = new ReentrantLock();
 	
 	public SpinLock(){}
