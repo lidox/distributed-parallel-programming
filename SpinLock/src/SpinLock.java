@@ -5,7 +5,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 
-public class SpinLock implements Lock{
+public class SpinLock implements Lock, Runnable{
 
 	ReentrantLock lock = new ReentrantLock();
 	
@@ -38,6 +38,11 @@ public class SpinLock implements Lock{
 	@Override
 	public void lockInterruptibly() throws InterruptedException {
 		// Muss nicht implementiert werden.
+	}
+
+	@Override
+	public void run() {
+		System.out.println("I do work! :");
 	}
 
 }
