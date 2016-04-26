@@ -2,12 +2,35 @@
 public class Main {
 
 	public static void main(String[] args) {
-		MyBitVector v = new MyBitVector(1000000);
+		System.out.println("BitVector with Lock started...");
 		
-		for (int i = 0; i < 1000; i++) {
-			v.pushBack(1);
+		int numOfThreads = 2000;
+		int numOfRunsPerThread = 100;
+		
+		MyBitVector vector = new MyBitVector(1000000);
+		
+		Runnable pushBackJob = () -> {
+			for (int i=0; i<numOfRunsPerThread; i++){
+				vector.pushBack(i);
+			}
+		}; 
+		
+		Thread[] threadList = new Thread[numOfThreads];
+		for (int i=0; i<numOfThreads; i++){
+			threadList[i] = new Thread(pushBackJob);
+			threadList[i].start();
 		}
 		
+		
+		for(int i=0; i<numOfThreads; i++){
+			try {
+				threadList[i].join();
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println("vector size: " + vector.size());
+
 	}
 
 }

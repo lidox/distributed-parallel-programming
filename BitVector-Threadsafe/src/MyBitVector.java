@@ -6,9 +6,9 @@ public class MyBitVector implements FrontierList {
 	//private Byte[] byteArray = new Byte[1000];
 	
 	// 
-	private int vertorSize = 1000; 
-	ReentrantLock lock = new ReentrantLock();
-	private long[] vector = new long[vertorSize];
+	private int vertorSize;
+	private ReentrantLock lock = new ReentrantLock();
+	private long[] vector;
 	
 	/** volatile wegen Visibility-Gründen deklariert. alternativ kann man lock() und unlick nutzen. 
 	 * Ohne volatile wird der Cache nicht geflush und es kann zu falschen ausgabewerten kommen 
@@ -113,8 +113,6 @@ public class MyBitVector implements FrontierList {
 
 	public MyBitVector(int vectorSlotSize) {
 		this.vertorSize = vectorSlotSize;
-	}
-	
-	public MyBitVector() {
+		this.vector = new long[vertorSize];
 	}
 }
