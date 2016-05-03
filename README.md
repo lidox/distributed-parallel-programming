@@ -9,16 +9,23 @@ example: `$ scp helloWorld.jar schaefer@sollipulli:helloWorld.jar`
 #### login at sollipulli
 `$ ssh schaefer@sollipulli`
 
+#### print free nodes
+`$ node print-all`
+
+#### alloc a node
+`$ node alloc node44`
+
 #### login at node
 `$ ssh node44`
 
-#### Run JAR:
-`$ java -jar test.jar`
-
-#### Logout
+#### Logout from node
 `$ logout`
+
+#### Free alloc 
 `$ node free-all`
 
+#### Run JAR:
+`$ java -jar test.jar`
 
 ## Git
 
