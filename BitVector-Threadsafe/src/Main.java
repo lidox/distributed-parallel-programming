@@ -1,4 +1,3 @@
-
 public class Main {
 
 	public static void main(String[] args) {
@@ -11,7 +10,7 @@ public class Main {
 		
 		Runnable pushBackJob = () -> {
 			for (int i=0; i<numOfRunsPerThread; i++){
-				vector.pushBack(i);
+				vector.set(i);
 			}
 		}; 
 		

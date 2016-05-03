@@ -1,5 +1,13 @@
+
 import java.util.concurrent.locks.ReentrantLock;
 
+import lsg.FrontierList;
+
+/**
+ * Concurrent BitVector Lock
+ * @author schaefer
+ *
+ */
 public class MyBitVector implements FrontierList {
 
 	// 1000 * 8 = 8k nodes (2^31 slots)
@@ -22,7 +30,7 @@ public class MyBitVector implements FrontierList {
 	 * Setzt das Bit an der Stelle p_val und markiert somit den Knoten mit dem Index p_val
 	 */
 	@Override
-	public void pushBack(long p_val) {
+	public void set(long p_val) {
 		if ( vector.length >= p_val) {
 			lock.lock();
 			try{
