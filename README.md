@@ -9,6 +9,9 @@ example: `$ scp helloWorld.jar schaefer@sollipulli:helloWorld.jar`
 #### login at sollipulli
 `$ ssh schaefer@sollipulli`
 
+#### print free nodes
+`$ node print-all`
+
 #### login at node
 `$ ssh node44`
 
