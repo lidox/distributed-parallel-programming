@@ -19,7 +19,6 @@ example: `$ scp helloWorld.jar schaefer@sollipulli:helloWorld.jar`
 `$ java -jar test.jar`
 
 #### Logout
-`$ logout`
 `$ node free-all`
 
 
