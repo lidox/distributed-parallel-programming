@@ -12,15 +12,20 @@ example: `$ scp helloWorld.jar schaefer@sollipulli:helloWorld.jar`
 #### print free nodes
 `$ node print-all`
 
+#### alloc a node
+`$ node alloc node44`
+
 #### login at node
 `$ ssh node44`
 
-#### Run JAR:
-`$ java -jar test.jar`
+#### Logout from node
+`$ logout`
 
-#### Logout
+#### Free alloc 
 `$ node free-all`
 
+#### Run JAR:
+`$ java -jar test.jar`
 
 ## Git
 
