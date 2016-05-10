@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core
+END
+ManualImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/ManualImpl.java
+END
+DocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/DocumentImpl.java
+END
+ConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/ConnectionImpl.java
+END
+AssemblyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/AssemblyImpl.java
+END
+AtomicPartImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/AtomicPartImpl.java
+END
+DesignObjImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/DesignObjImpl.java
+END
+ModuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/ModuleImpl.java
+END
+ComplexAssemblyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/ComplexAssemblyImpl.java
+END
+CompositePartImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/CompositePartImpl.java
+END
+BaseAssemblyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/BaseAssemblyImpl.java
+END
+DesignObjFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/core/DesignObjFactoryImpl.java
+END

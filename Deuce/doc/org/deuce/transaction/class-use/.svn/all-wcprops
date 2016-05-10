@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/class-use
+END
+AbortTransactionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/class-use/AbortTransactionException.html
+END
+TransactionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/class-use/TransactionException.html
+END
+Context.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/class-use/Context.html
+END
+ContextDelegator.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/class-use/ContextDelegator.html
+END

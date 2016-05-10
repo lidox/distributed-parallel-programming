@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/455/trunk/Deuce
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/trunk/Deuce/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/199/trunk/Deuce/.project
+END
+README.VELOX
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/382/trunk/Deuce/README.VELOX
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/455/trunk/Deuce/build.xml
+END
+LICENSE.VELOX
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/382/trunk/Deuce/LICENSE.VELOX
+END

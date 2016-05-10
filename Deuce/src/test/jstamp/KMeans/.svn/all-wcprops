@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/385/trunk/Deuce/src/test/jstamp/KMeans
+END
+LICENSE.kmeans
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/LICENSE.kmeans
+END
+Random.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/Random.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/Cluster.java
+END
+RandomExact.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/RandomExact.java
+END
+Barrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/Barrier.java
+END
+Normal.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/Normal.java
+END
+Common.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/Common.java
+END
+GlobalArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/GlobalArgs.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/README
+END
+KMeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/322/trunk/Deuce/src/test/jstamp/KMeans/KMeans.java
+END

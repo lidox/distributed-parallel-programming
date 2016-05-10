@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use
+END
+CharWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/CharWriteFieldAccess.html
+END
+BooleanWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/BooleanWriteFieldAccess.html
+END
+ShortWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/ShortWriteFieldAccess.html
+END
+LongWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/LongWriteFieldAccess.html
+END
+WriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/WriteFieldAccess.html
+END
+ReadFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/ReadFieldAccess.html
+END
+ByteWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/ByteWriteFieldAccess.html
+END
+FloatWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/FloatWriteFieldAccess.html
+END
+ObjectWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/ObjectWriteFieldAccess.html
+END
+IntWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/IntWriteFieldAccess.html
+END
+DoubleWriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2/field/class-use/DoubleWriteFieldAccess.html
+END

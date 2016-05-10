@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/452/trunk/Deuce/src/java/org/deuce/transaction/estm
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/452/trunk/Deuce/src/java/org/deuce/transaction/estm/Context.java
+END
+WriteSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/383/trunk/Deuce/src/java/org/deuce/transaction/estm/WriteSet.java
+END
+ReadSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/383/trunk/Deuce/src/java/org/deuce/transaction/estm/ReadSet.java
+END
+LastReadEntries.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/383/trunk/Deuce/src/java/org/deuce/transaction/estm/LastReadEntries.java
+END

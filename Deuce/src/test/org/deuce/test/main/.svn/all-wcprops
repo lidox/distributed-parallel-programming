@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/201/trunk/Deuce/src/test/org/deuce/test/main
+END
+AA.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/Deuce/src/test/org/deuce/test/main/AA.java
+END
+BB.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/Deuce/src/test/org/deuce/test/main/BB.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/201/trunk/Deuce/src/test/org/deuce/test/main/Main.java
+END
+CheckingAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/201/trunk/Deuce/src/test/org/deuce/test/main/CheckingAccount.java
+END
+IntSetSkipList.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/72/trunk/Deuce/src/test/org/deuce/test/main/IntSetSkipList.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/201/trunk/Deuce/src/test/org/deuce/test/main/Account.java
+END

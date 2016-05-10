@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend
+END
+BackendFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/BackendFactoryImpl.java
+END
+TreeMapIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/TreeMapIndex.java
+END
+SmallSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/SmallSetImpl.java
+END
+IdPoolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/IdPoolImpl.java
+END
+LargeSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/LargeSetImpl.java
+END
+BagImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/BagImpl.java
+END
+ImmutableViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/impl/backend/ImmutableViewImpl.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method
+END
+AtomicMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/AtomicMethod.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/package-frame.html
+END
+MethodTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/MethodTransformer.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/package-tree.html
+END
+MethodAnnotationVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/MethodAnnotationVisitor.html
+END
+DuplicateMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/DuplicateMethod.html
+END
+StaticMethodTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/method/StaticMethodTransformer.html
+END

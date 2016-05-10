@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/441/trunk/Deuce/src/java/org/deuce/transaction/tl2
+END
+LockTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/transaction/tl2/LockTable.java
+END
+LockProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/transaction/tl2/LockProcedure.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/441/trunk/Deuce/src/java/org/deuce/transaction/tl2/Context.java
+END
+WriteSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/transaction/tl2/WriteSet.java
+END
+ReadSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/327/trunk/Deuce/src/java/org/deuce/transaction/tl2/ReadSet.java
+END
+BloomFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132/trunk/Deuce/src/java/org/deuce/transaction/tl2/BloomFilter.java
+END

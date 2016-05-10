@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field
+END
+BooleanWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/BooleanWriteFieldAccess.java
+END
+LongWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/LongWriteFieldAccess.java
+END
+ShortWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/ShortWriteFieldAccess.java
+END
+WriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/WriteFieldAccess.java
+END
+ReadFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/ReadFieldAccess.java
+END
+ByteWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/ByteWriteFieldAccess.java
+END
+FloatWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/FloatWriteFieldAccess.java
+END
+ObjectWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/ObjectWriteFieldAccess.java
+END
+DoubleWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/DoubleWriteFieldAccess.java
+END
+IntWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/IntWriteFieldAccess.java
+END
+CharWriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/352/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/field/CharWriteFieldAccess.java
+END

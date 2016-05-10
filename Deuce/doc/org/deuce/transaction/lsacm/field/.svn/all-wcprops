@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field
+END
+WriteFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/WriteFieldAccess.html
+END
+ReadFieldAccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/ReadFieldAccess.html
+END
+Field.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/Field.html
+END
+Field.Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/Field.Type.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/field/package-tree.html
+END

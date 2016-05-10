@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/452/trunk/Deuce/src/java/org/deuce/transaction/lsacm
+END
+LockTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/350/trunk/Deuce/src/java/org/deuce/transaction/lsacm/LockTable.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/452/trunk/Deuce/src/java/org/deuce/transaction/lsacm/Context.java
+END
+WriteSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/350/trunk/Deuce/src/java/org/deuce/transaction/lsacm/WriteSet.java
+END
+ReadSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/175/trunk/Deuce/src/java/org/deuce/transaction/lsacm/ReadSet.java
+END
+ContentionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/175/trunk/Deuce/src/java/org/deuce/transaction/lsacm/ContentionManager.java
+END

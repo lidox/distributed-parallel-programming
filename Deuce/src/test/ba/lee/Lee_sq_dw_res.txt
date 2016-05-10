@@ -1,0 +1,450 @@
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 1
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 12.844 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 1
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 12.894 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 2
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 10.551 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 2
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 10.538 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 3
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 8.231 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 3
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 8.278 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 4
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 7.68 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 4
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 7.693 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 5
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 6.952 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 5
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 6.991 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 6
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 6.965 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/sparseshort.txt
+--- Threads : 6
+--- die Anzahl der zu findenden Routen: 841
+---Total Transaction : 841
+---Commited Transaction : 841
+---Aborted Transaction : 0
+------- - elapsed time : 6.963 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+0 Routen koennten nicht gefunden werden !
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 1
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1496
+---Commited Transaction : 1496
+---Aborted Transaction : 0
+------- - elapsed time : 30.746 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+12 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 1
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1496
+---Commited Transaction : 1496
+---Aborted Transaction : 0
+------- - elapsed time : 30.494 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+12 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 2
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1578
+---Commited Transaction : 1496
+---Aborted Transaction : 82
+------- - elapsed time : 23.699 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+13 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 2
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1579
+---Commited Transaction : 1495
+---Aborted Transaction : 84
+------- - elapsed time : 24.451 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+15 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 3
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1623
+---Commited Transaction : 1493
+---Aborted Transaction : 130
+------- - elapsed time : 19.34 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+14 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 3
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1601
+---Commited Transaction : 1489
+---Aborted Transaction : 112
+------- - elapsed time : 19.18 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+21 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 4
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1670
+---Commited Transaction : 1490
+---Aborted Transaction : 180
+------- - elapsed time : 18.261 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+22 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 4
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1672
+---Commited Transaction : 1488
+---Aborted Transaction : 184
+------- - elapsed time : 18.0 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+22 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 5
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1705
+---Commited Transaction : 1488
+---Aborted Transaction : 217
+------- - elapsed time : 16.765 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+20 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 5
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1706
+---Commited Transaction : 1490
+---Aborted Transaction : 216
+------- - elapsed time : 17.144 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+20 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 6
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1756
+---Commited Transaction : 1493
+---Aborted Transaction : 263
+------- - elapsed time : 16.907 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+19 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/mainboard.txt
+--- Threads : 6
+--- die Anzahl der zu findenden Routen: 1506
+---Total Transaction : 1761
+---Commited Transaction : 1485
+---Aborted Transaction : 276
+------- - elapsed time : 17.02 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+23 Routen koennten nicht gefunden werden !
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 1
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3077
+---Commited Transaction : 3077
+---Aborted Transaction : 0
+------- - elapsed time : 53.498 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+29 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 1
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3077
+---Commited Transaction : 3077
+---Aborted Transaction : 0
+------- - elapsed time : 53.343 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+29 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 2
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3315
+---Commited Transaction : 3072
+---Aborted Transaction : 243
+------- - elapsed time : 44.11 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+35 Routen koennten nicht gefunden werden !
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 2
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3300
+---Commited Transaction : 3071
+---Aborted Transaction : 229
+------- - elapsed time : 43.688 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+36 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 3
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3497
+---Commited Transaction : 3072
+---Aborted Transaction : 425
+------- - elapsed time : 37.407 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+32 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 3
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3493
+---Commited Transaction : 3067
+---Aborted Transaction : 426
+------- - elapsed time : 37.577 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+37 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 4
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3522
+---Commited Transaction : 3057
+---Aborted Transaction : 465
+------- - elapsed time : 34.027 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+48 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 4
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3515
+---Commited Transaction : 3065
+---Aborted Transaction : 450
+------- - elapsed time : 33.461 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+41 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 5
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3546
+---Commited Transaction : 3058
+---Aborted Transaction : 488
+------- - elapsed time : 31.701 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+46 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 5
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3565
+---Commited Transaction : 3058
+---Aborted Transaction : 507
+------- - elapsed time : 31.859 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+47 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 6
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3613
+---Commited Transaction : 3063
+---Aborted Transaction : 550
+------- - elapsed time : 30.275 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+42 Routen koennten nicht gefunden werden !
+
+starting... 
+optimiert... 
+Input : src/test/aa_lee/memboard.txt
+--- Threads : 6
+--- die Anzahl der zu findenden Routen: 3101
+---Total Transaction : 3645
+---Commited Transaction : 3069
+---Aborted Transaction : 576
+------- - elapsed time : 30.613 s - ----------------------
+Starting verifying ... 
+Ende verifying ! 
+35 Routen koennten nicht gefunden werden !

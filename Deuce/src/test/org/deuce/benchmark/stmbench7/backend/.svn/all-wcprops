@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/backend
+END
+BackendFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/backend/BackendFactory.java
+END
+IdPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/backend/IdPool.java
+END
+LargeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/backend/LargeSet.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/backend/Index.java
+END
+ImmutableCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/backend/ImmutableCollection.java
+END

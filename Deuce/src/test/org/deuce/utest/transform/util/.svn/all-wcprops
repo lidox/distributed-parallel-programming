@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/transform/util
+END
+IgnoreTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/transform/util/IgnoreTreeTest.java
+END
+BloomFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/transform/util/BloomFilterTest.java
+END

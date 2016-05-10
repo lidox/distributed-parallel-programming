@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/349/trunk/Deuce/src/java/org/deuce/transaction/lsa/field
+END
+WriteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/349/trunk/Deuce/src/java/org/deuce/transaction/lsa/field/WriteFieldAccess.java
+END
+ReadFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/349/trunk/Deuce/src/java/org/deuce/transaction/lsa/field/ReadFieldAccess.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130/trunk/Deuce/src/java/org/deuce/transaction/lsa/field/Field.java
+END

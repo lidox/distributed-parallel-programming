@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/bank
+END
+DeuceSTMFragilePaymentTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/bank/DeuceSTMFragilePaymentTransfer.java
+END
+FragilePaymentTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/bank/FragilePaymentTransfer.java
+END
+AccountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/bank/AccountTest.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/bank/Account.java
+END
+AccountImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/bank/AccountImpl.java
+END

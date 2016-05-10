@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm
+END
+ContentionManager.ConflictType.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/ContentionManager.ConflictType.html
+END
+LockTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/LockTable.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/package-frame.html
+END
+Context.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/Context.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/package-use.html
+END
+WriteSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/WriteSet.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/package-summary.html
+END
+ReadSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/ReadSet.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/package-tree.html
+END
+ContentionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/ContentionManager.html
+END

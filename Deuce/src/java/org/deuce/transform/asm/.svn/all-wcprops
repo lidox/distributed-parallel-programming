@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/400/trunk/Deuce/src/java/org/deuce/transform/asm
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/Deuce/src/java/org/deuce/transform/asm/Field.java
+END
+ClassByteCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/186/trunk/Deuce/src/java/org/deuce/transform/asm/ClassByteCode.java
+END
+FieldsHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/218/trunk/Deuce/src/java/org/deuce/transform/asm/FieldsHolder.java
+END
+ExternalFieldsHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/218/trunk/Deuce/src/java/org/deuce/transform/asm/ExternalFieldsHolder.java
+END
+AtomicAnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/173/trunk/Deuce/src/java/org/deuce/transform/asm/AtomicAnnotationVisitor.java
+END
+ClassTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/370/trunk/Deuce/src/java/org/deuce/transform/asm/ClassTransformer.java
+END
+FramesCodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/169/trunk/Deuce/src/java/org/deuce/transform/asm/FramesCodeVisitor.java
+END
+ExcludeIncludeStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/298/trunk/Deuce/src/java/org/deuce/transform/asm/ExcludeIncludeStore.java
+END
+ByteCodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/159/trunk/Deuce/src/java/org/deuce/transform/asm/ByteCodeVisitor.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/400/trunk/Deuce/src/java/org/deuce/transform/asm/Agent.java
+END

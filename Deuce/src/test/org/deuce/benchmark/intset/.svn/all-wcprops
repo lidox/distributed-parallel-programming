@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/183/trunk/Deuce/src/test/org/deuce/benchmark/intset
+END
+IntJavaConcurrentHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/IntJavaConcurrentHashSet.java
+END
+BenchmarkThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133/trunk/Deuce/src/test/org/deuce/benchmark/intset/BenchmarkThread.java
+END
+RBTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/RBTree.java
+END
+PrimeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/PrimeFinder.java
+END
+IntSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/29/trunk/Deuce/src/test/org/deuce/benchmark/intset/IntSet.java
+END
+HashTableSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/HashTableSet.java
+END
+IntSetLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/183/trunk/Deuce/src/test/org/deuce/benchmark/intset/IntSetLinkedList.java
+END
+IntSetSkipList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/Deuce/src/test/org/deuce/benchmark/intset/IntSetSkipList.java
+END
+Benchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/Benchmark.java
+END
+IntSetHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/IntSetHash.java
+END
+IntJavaHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/181/trunk/Deuce/src/test/org/deuce/benchmark/intset/IntJavaHashSet.java
+END

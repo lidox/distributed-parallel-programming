@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use
+END
+Agent.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/Agent.html
+END
+ByteCodeVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/ByteCodeVisitor.html
+END
+Field.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/Field.html
+END
+ClassByteCode.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/ClassByteCode.html
+END
+FieldsHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/FieldsHolder.html
+END
+AtomicAnnotationVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/AtomicAnnotationVisitor.html
+END
+ExternalFieldsHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/ExternalFieldsHolder.html
+END
+FramesCodeVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/FramesCodeVisitor.html
+END
+ClassTransformer.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/ClassTransformer.html
+END
+ExcludeIncludeStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/ExcludeIncludeStore.html
+END
+FramesCodeVisitor.VersionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/class-use/FramesCodeVisitor.VersionException.html
+END

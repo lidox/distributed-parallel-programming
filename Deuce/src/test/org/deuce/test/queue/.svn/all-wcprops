@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/201/trunk/Deuce/src/test/org/deuce/test/queue
+END
+QueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Deuce/src/test/org/deuce/test/queue/QueueTest.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/Deuce/src/test/org/deuce/test/queue/Node.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/Deuce/src/test/org/deuce/test/queue/PriorityQueue.java
+END
+EmptyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/201/trunk/Deuce/src/test/org/deuce/test/queue/EmptyException.java
+END

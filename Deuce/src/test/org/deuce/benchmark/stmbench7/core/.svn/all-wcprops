@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/Connection.java
+END
+CompositePartBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/CompositePartBuilder.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/Operation.java
+END
+AtomicPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/AtomicPart.java
+END
+DesignObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/DesignObj.java
+END
+ComplexAssembly.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/ComplexAssembly.java
+END
+AtomicPartBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/AtomicPartBuilder.java
+END
+BaseAssembly.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/BaseAssembly.java
+END
+DesignObjBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/DesignObjBuilder.java
+END
+Manual.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/Manual.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/Document.java
+END
+Assembly.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/Assembly.java
+END
+OperationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/OperationFailedException.java
+END
+ManualBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/ManualBuilder.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/Module.java
+END
+DocumentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/DocumentBuilder.java
+END
+AssemblyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/AssemblyBuilder.java
+END
+CompositePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/CompositePart.java
+END
+DesignObjFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/DesignObjFactory.java
+END
+ModuleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/ModuleBuilder.java
+END
+RuntimeError.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/core/RuntimeError.java
+END

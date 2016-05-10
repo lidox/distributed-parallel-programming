@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/378/trunk/Deuce/src/java/org/deuce/transform/asm/method
+END
+MethodTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/378/trunk/Deuce/src/java/org/deuce/transform/asm/method/MethodTransformer.java
+END
+StaticMethodTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/374/trunk/Deuce/src/java/org/deuce/transform/asm/method/StaticMethodTransformer.java
+END
+MethodAnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/173/trunk/Deuce/src/java/org/deuce/transform/asm/method/MethodAnnotationVisitor.java
+END
+DuplicateMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/373/trunk/Deuce/src/java/org/deuce/transform/asm/method/DuplicateMethod.java
+END
+AtomicMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/373/trunk/Deuce/src/java/org/deuce/transform/asm/method/AtomicMethod.java
+END

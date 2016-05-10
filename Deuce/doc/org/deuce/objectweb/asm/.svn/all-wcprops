@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm
+END
+Label.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/Label.html
+END
+MethodAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/MethodAdapter.html
+END
+Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/Type.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/package-use.html
+END
+ClassVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/ClassVisitor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/package-summary.html
+END
+ByteVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/ByteVector.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/package-tree.html
+END
+ClassReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/ClassReader.html
+END
+AnnotationVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/AnnotationVisitor.html
+END
+Opcodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/Opcodes.html
+END
+MethodVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/MethodVisitor.html
+END
+ClassWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/ClassWriter.html
+END
+Attribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/Attribute.html
+END
+FieldVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/FieldVisitor.html
+END
+ClassAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/objectweb/asm/ClassAdapter.html
+END

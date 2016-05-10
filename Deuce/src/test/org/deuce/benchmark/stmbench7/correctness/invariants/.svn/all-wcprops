@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants
+END
+ConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/ConnectionTest.java
+END
+AssemblyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/AssemblyTest.java
+END
+AtomicPartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/AtomicPartTest.java
+END
+DesignObjTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/DesignObjTest.java
+END
+ModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/ModuleTest.java
+END
+IndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/IndexTest.java
+END
+ComplexAssemblyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/ComplexAssemblyTest.java
+END
+TraversedObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/TraversedObjects.java
+END
+DocumentationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/DocumentationTest.java
+END
+CompositePartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/CompositePartTest.java
+END
+BaseAssemblyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/BaseAssemblyTest.java
+END
+InvariantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/InvariantTest.java
+END
+ManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/ManualTest.java
+END
+CheckInvariantsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/correctness/invariants/CheckInvariantsOperation.java
+END

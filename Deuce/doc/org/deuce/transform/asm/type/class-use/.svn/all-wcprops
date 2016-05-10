@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use
+END
+ReferenceTypeCodeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/ReferenceTypeCodeResolver.html
+END
+LongTypeCodeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/LongTypeCodeResolver.html
+END
+TypeCodeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/TypeCodeResolver.html
+END
+FloatTypeCodeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/FloatTypeCodeResolver.html
+END
+TypeCodeResolverFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/TypeCodeResolverFactory.html
+END
+IntTypeCodeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/IntTypeCodeResolver.html
+END
+DoubleTypeCodeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transform/asm/type/class-use/DoubleTypeCodeResolver.html
+END

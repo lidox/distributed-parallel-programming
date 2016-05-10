@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking
+END
+CGLockingOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/CGLockingOperationExecutor.java
+END
+MGLockingOperationExecutorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/MGLockingOperationExecutorFactory.java
+END
+MGLockingComplexAssemblyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/MGLockingComplexAssemblyImpl.java
+END
+CGLockingInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/CGLockingInitializer.java
+END
+MGLockingDesignObjFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/MGLockingDesignObjFactory.java
+END
+CGLockingOperationExecutorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/CGLockingOperationExecutorFactory.java
+END
+MGLockingOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/MGLockingOperationExecutor.java
+END
+MGLockingInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/locking/MGLockingInitializer.java
+END

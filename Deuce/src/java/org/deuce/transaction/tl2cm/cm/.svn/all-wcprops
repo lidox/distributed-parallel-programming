@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/379/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm
+END
+Aggressive.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/Aggressive.java
+END
+AbstractContentionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/AbstractContentionManager.java
+END
+KillPrioLS.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/379/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/KillPrioLS.java
+END
+Suicide.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/Suicide.java
+END
+Polka.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/Polka.java
+END
+KarmaLS.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/379/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/KarmaLS.java
+END
+Karma.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/Karma.java
+END
+ContentionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/ContentionManager.java
+END
+Polite.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/355/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/Polite.java
+END
+AggressiveLS.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/379/trunk/Deuce/src/java/org/deuce/transaction/tl2cm/cm/AggressiveLS.java
+END

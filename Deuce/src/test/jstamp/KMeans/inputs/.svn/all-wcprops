@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs
+END
+color100
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/color100
+END
+random-n65536-d32-c16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/random-n65536-d32-c16.txt
+END
+texture100
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/texture100
+END
+generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/generate.py
+END
+random1000_12
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/random1000_12
+END
+random10000_12
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/random10000_12
+END
+edge
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/edge
+END
+edge100
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/edge100
+END
+random-n2048-d16-c16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/random-n2048-d16-c16.txt
+END
+random50000_12
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/random50000_12
+END
+random-n16384-d24-c16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/random-n16384-d24-c16.txt
+END
+color
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/KMeans/inputs/color
+END

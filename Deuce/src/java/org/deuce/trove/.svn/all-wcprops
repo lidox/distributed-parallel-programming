@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/trove
+END
+TIntIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntIntProcedure.java
+END
+PrimeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/PrimeFinder.java
+END
+TLongIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongIntProcedure.java
+END
+TShortIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortIntProcedure.java
+END
+TIntLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntLongProcedure.java
+END
+THash.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/THash.java
+END
+TDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleProcedure.java
+END
+TIntByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntByteProcedure.java
+END
+TByteIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteIntProcedure.java
+END
+TFloatIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatIntProcedure.java
+END
+TIntObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntObjectProcedure.java
+END
+TDoubleIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleIntProcedure.java
+END
+THashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/trove/THashSet.java
+END
+TShortDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortDoubleProcedure.java
+END
+TDoubleLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleLongProcedure.java
+END
+TLongDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongDoubleProcedure.java
+END
+TObjectFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectFloatProcedure.java
+END
+TByteDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteDoubleProcedure.java
+END
+TDoubleByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleByteProcedure.java
+END
+TLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongProcedure.java
+END
+TShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortProcedure.java
+END
+TDoubleObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleObjectProcedure.java
+END
+TObjectDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectDoubleProcedure.java
+END
+TByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteProcedure.java
+END
+TLongLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongLongProcedure.java
+END
+HashFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/HashFunctions.java
+END
+TShortShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortShortProcedure.java
+END
+TLongShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongShortProcedure.java
+END
+TShortLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortLongProcedure.java
+END
+TIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIterator.java
+END
+TIntFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntFloatProcedure.java
+END
+TByteLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteLongProcedure.java
+END
+TShortByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortByteProcedure.java
+END
+TByteShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteShortProcedure.java
+END
+TLongByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongByteProcedure.java
+END
+ToObjectArrayProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/ToObjectArrayProcedure.java
+END
+TFloatShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatShortProcedure.java
+END
+TIntDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntDoubleProcedure.java
+END
+TByteByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteByteProcedure.java
+END
+SerializationProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/SerializationProcedure.java
+END
+TFloatObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatObjectProcedure.java
+END
+TDoubleFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleFloatProcedure.java
+END
+TObjectFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectFunction.java
+END
+TDoubleDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleDoubleProcedure.java
+END
+THashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/THashMap.java
+END
+TObjectHashIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectHashIterator.java
+END
+TIntArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/trove/TIntArrayList.java
+END
+TObjectHashingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectHashingStrategy.java
+END
+THashIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/THashIterator.java
+END
+TObjectShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectShortProcedure.java
+END
+TIntFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/333/trunk/Deuce/src/java/org/deuce/trove/TIntFunction.java
+END
+TFloatDoubleProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatDoubleProcedure.java
+END
+TFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatProcedure.java
+END
+TObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectProcedure.java
+END
+TIntShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntShortProcedure.java
+END
+TObjectIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectIntProcedure.java
+END
+TFloatLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatLongProcedure.java
+END
+TShortFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortFloatProcedure.java
+END
+TLongFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongFloatProcedure.java
+END
+TObjectLongProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectLongProcedure.java
+END
+TLongObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TLongObjectProcedure.java
+END
+TShortObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TShortObjectProcedure.java
+END
+TFloatByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatByteProcedure.java
+END
+TByteFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteFloatProcedure.java
+END
+TDoubleShortProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TDoubleShortProcedure.java
+END
+TByteObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TByteObjectProcedure.java
+END
+TIntProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TIntProcedure.java
+END
+TObjectByteProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectByteProcedure.java
+END
+TFloatFloatProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TFloatFloatProcedure.java
+END
+TObjectObjectProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectObjectProcedure.java
+END
+TObjectHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/318/trunk/Deuce/src/java/org/deuce/trove/TObjectHash.java
+END

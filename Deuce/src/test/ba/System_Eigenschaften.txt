@@ -1,0 +1,19 @@
+Prozessor
+Prozessor (CPU):   AMD Phenom(tm) II X6 1100T Processor
+  Geschwindigkeit:  3 300,00 MHz
+  Kerne:  6
+  Arbeitsspeicher
+Gesamter Arbeitsspeicher:  7,8 GiB
+  Freier Arbeitsspeicher:  6,6 GiB (+ 835,9 MiB Zwischenspeicher)
+  Freier Auslagerungsspeicher (Swap):  2,0 GiB
+
+Betriebssystem
+Kernel:  Linux 2.6.34.7-0.7-desktop x86_64
+  Aktueller Benutzer:  hajiamini@alpamayo
+  Distribution:  openSUSE 11.3 (x86_64)
+  KDE:  4.4.4 (KDE 4.4.4) "release 3"
+  Grafikkarte
+Hersteller:  nVidia Corporation
+  Modell:  GeForce GT 430
+  2D-Treiber:  nvidia
+  3D-Treiber:  NVIDIA 260.19.36 

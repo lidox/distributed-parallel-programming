@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/378/trunk/Deuce/src/test/org/deuce/utest/basic
+END
+IrrevocableContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/378/trunk/Deuce/src/test/org/deuce/utest/basic/IrrevocableContextTest.java
+END
+StaticBlockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/StaticBlockTest.java
+END
+EnumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/EnumTest.java
+END
+AtomicBlockIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/372/trunk/Deuce/src/test/org/deuce/utest/basic/AtomicBlockIDTest.java
+END
+StaticFieldInheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/StaticFieldInheritanceTest.java
+END
+SingleUpdateInnerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/SingleUpdateInnerClass.java
+END
+AbortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/AbortTest.java
+END
+UnsafewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/UnsafewTest.java
+END
+InterfaceConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/InterfaceConstant.java
+END
+SingleStaticUpdateInnerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/SingleStaticUpdateInnerClass.java
+END
+SerialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/SerialTest.java
+END
+FieldsInheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/FieldsInheritanceTest.java
+END
+SingleUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/SingleUpdate.java
+END
+SerialStaticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/SerialStaticTest.java
+END
+SingleStaticUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/SingleStaticUpdate.java
+END
+PrivateInnerClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/basic/PrivateInnerClassTest.java
+END
+IrrevocableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/371/trunk/Deuce/src/test/org/deuce/utest/basic/IrrevocableTest.java
+END

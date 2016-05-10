@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs
+END
+random-x128-y128-z3-n128.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x128-y128-z3-n128.txt
+END
+random-x48-y48-z3-n64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x48-y48-z3-n64.txt
+END
+random-x128-y128-z5-n128.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x128-y128-z5-n128.txt
+END
+generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/generate.py
+END
+random-x32-y32-z3-n64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x32-y32-z3-n64.txt
+END
+random-x48-y48-z3-n48.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x48-y48-z3-n48.txt
+END
+random-x256-y256-z3-n256.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x256-y256-z3-n256.txt
+END
+random-x256-y256-z5-n256.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x256-y256-z5-n256.txt
+END
+random-x32-y32-z3-n96.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x32-y32-z3-n96.txt
+END
+random-x512-y512-z7-n512.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x512-y512-z7-n512.txt
+END
+random-x64-y64-z3-n64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x64-y64-z3-n64.txt
+END
+random-x128-y128-z3-n64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x128-y128-z3-n64.txt
+END
+random-x64-y64-z3-n48.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/317/trunk/Deuce/src/test/jstamp/Labyrinth3D/inputs/random-x64-y64-z3-n48.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel
+END
+SerialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/SerialTest.java
+END
+ParallelAbortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/ParallelAbortTest.java
+END
+SingleUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/SingleUpdate.java
+END
+SingleUpdateInnerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/SingleUpdateInnerClass.java
+END
+SerialStaticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/SerialStaticTest.java
+END
+StaticUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/StaticUpdate.java
+END
+StaticUpdate2.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/StaticUpdate2.java
+END
+SingleStaticUpdateInnerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/360/trunk/Deuce/src/test/org/deuce/utest/parallel/SingleStaticUpdateInnerClass.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use
+END
+ContentionManager.ConflictType.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use/ContentionManager.ConflictType.html
+END
+LockTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use/LockTable.html
+END
+Context.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use/Context.html
+END
+WriteSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use/WriteSet.html
+END
+ReadSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use/ReadSet.html
+END
+ContentionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/lsacm/class-use/ContentionManager.html
+END

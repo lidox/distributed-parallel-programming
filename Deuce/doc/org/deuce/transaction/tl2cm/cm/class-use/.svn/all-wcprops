@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use
+END
+Polite.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/Polite.html
+END
+Aggressive.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/Aggressive.html
+END
+AbstractContentionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/AbstractContentionManager.html
+END
+BackoffCM.BackoffData.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/BackoffCM.BackoffData.html
+END
+Timestamp.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/Timestamp.html
+END
+KarmaLockStealer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/KarmaLockStealer.html
+END
+Suicide.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/Suicide.html
+END
+LockSkipper.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/LockSkipper.html
+END
+Polka.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/Polka.html
+END
+ContentionManager.Action.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/ContentionManager.Action.html
+END
+Karma.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/Karma.html
+END
+ContentionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/ContentionManager.html
+END
+BackoffCM.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/303/trunk/Deuce/doc/org/deuce/transaction/tl2cm/cm/class-use/BackoffCM.html
+END

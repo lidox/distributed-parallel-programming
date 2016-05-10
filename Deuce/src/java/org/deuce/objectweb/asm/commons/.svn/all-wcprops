@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/166/trunk/Deuce/src/java/org/deuce/objectweb/asm/commons
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/166/trunk/Deuce/src/java/org/deuce/objectweb/asm/commons/Method.java
+END
+JSRInlinerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/77/trunk/Deuce/src/java/org/deuce/objectweb/asm/commons/JSRInlinerAdapter.java
+END
+LocalVariablesSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/Deuce/src/java/org/deuce/objectweb/asm/commons/LocalVariablesSorter.java
+END
+AnalyzerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/166/trunk/Deuce/src/java/org/deuce/objectweb/asm/commons/AnalyzerAdapter.java
+END

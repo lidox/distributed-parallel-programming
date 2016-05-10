@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field
+END
+DoubleFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/DoubleFieldAccess.java
+END
+IntFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/IntFieldAccess.java
+END
+CharFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/CharFieldAccess.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/Field.java
+END
+BooleanFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/BooleanFieldAccess.java
+END
+LongFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/LongFieldAccess.java
+END
+ShortFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/ShortFieldAccess.java
+END
+FieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/FieldAccess.java
+END
+ByteFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/ByteFieldAccess.java
+END
+FloatFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/FloatFieldAccess.java
+END
+ObjectFieldAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/359/trunk/Deuce/src/java/org/deuce/transaction/norec/field/ObjectFieldAccess.java
+END

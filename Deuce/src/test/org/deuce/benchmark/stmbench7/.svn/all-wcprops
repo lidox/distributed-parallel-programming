@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7
+END
+ThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/ThreadFactory.java
+END
+OperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/OperationExecutor.java
+END
+Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/Setup.java
+END
+OperationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/OperationType.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/Parameters.java
+END
+ImplParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/ImplParameters.java
+END
+BenchThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/BenchThread.java
+END
+OperationExecutorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/OperationExecutorFactory.java
+END
+ThreadRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/ThreadRandom.java
+END
+SynchMethodInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/SynchMethodInitializer.java
+END
+Benchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/Benchmark.java
+END
+OperationId.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313/trunk/Deuce/src/test/org/deuce/benchmark/stmbench7/OperationId.java
+END
